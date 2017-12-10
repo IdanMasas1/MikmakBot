@@ -1,0 +1,1 @@
+[null,{"name":"OnJoin","temp":"Names","event-type":"6","actions":[{"channel":"4","varName":"","message":"ברוך הבא ${tempVars(\"Names\")}","storage":"0","varName2":"","name":"Send Message"},{"info":"1","find":"Member","storage":"1","varName":"Names","name":"Find Role"},{"member":"2","varName2":"${tempVars(\"Names\")}","role":"3","varName":"Names","name":"Add Member Role"}]}]
